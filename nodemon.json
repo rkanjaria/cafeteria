@@ -1,0 +1,5 @@
+{
+    "env" :{
+        "MONGO_DB_ATLAS_PASSWORD" : "rk1994"
+    }
+}
